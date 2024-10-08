@@ -1,4 +1,4 @@
-# Employee-Management
+# Employee-Management System Using React
 The *Employee Management System* is a web application built using **React** that allows users to efficiently manage employee data. The system provides the following key functionalities:
 
 - **Add Employee**: Users can input and save new employee details such as name, position, department, and contact information.
